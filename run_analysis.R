@@ -1,3 +1,5 @@
+# Download assignment data and set working directory accordingly.
+# Once R is configured simply open this file or cut and paste code into the R console.
 # Read in the data from the working directory assuming the files have been saved as downloaded.
 # Memory is an issue so subset the data early.
 
